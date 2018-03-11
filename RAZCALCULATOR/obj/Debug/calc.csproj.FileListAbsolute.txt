@@ -1,0 +1,8 @@
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\calc\bin\Debug\calc.exe
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\calc\bin\Debug\calc.pdb
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\calc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\calc\obj\Debug\calc.exe
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\calc\obj\Debug\calc.pdb
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\calc\obj\Debug\calc.Form1.resources
